@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 FRC New Taipei City x Hon Hai Regional](https://moon-jam.me/2022_FRC_New_Taipei_City_x_Hon_Hai_Regional/)
+- [最大流 &amp; 最小割 &lpar;Max-Flow &amp; Min-Cut&rpar;](https://moon-jam.me/algo_Max-Flow_and_Min-Cut/)
+- [CSES Graph Algorithms](https://moon-jam.me/CSES_Graph_Algorithms/)
+- [高中有機化學筆記 &lpar;內附大大的分類心智圖&rpar;](https://moon-jam.me/high_school_organic_chemistry_note/)
+- [Functional Graph 簡介與相關題型說明](https://moon-jam.me/functional_graph/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
