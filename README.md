@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bloom filters 簡介](https://moon-jam.me/Bloom-filters/)
 - [[ECC 橢圓曲線密碼學：30 天從入門到入土] 前言](https://moon-jam.me/IThome_2025ironman_ECC_Day01/)
 - [2025 SCIST MID CTF Writeup](https://moon-jam.me/2025_SCIST_MID_CTF_Writeup/)
 - [2025 TSCCTF Writeup](https://moon-jam.me/2025_TSCCTF_Writeup/)
 - [IThome 2024 鐵人賽 一直刷 CTF - Day30](https://moon-jam.me/IThome_2024ironman_CTF_Day30/)
-- [IThome 2024 鐵人賽 一直刷 CTF - Day29](https://moon-jam.me/IThome_2024ironman_CTF_Day29/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
