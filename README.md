@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI 時代，做筆記還在手打 LaTeX ！？](https://moon-jam.me/AI_era_still_write_latex/)
+- [那泥？我是高中有機化學的熱搜冠軍！？](https://moon-jam.me/organic-chemistry-top-seo/)
 - [為 Blog 加上繁體中文 Linter &lpar;zhtw-mcp&rpar;](https://moon-jam.me/blog-zhtw-lint/)
 - [md2pdf](https://moon-jam.me/md2pdf-blog/)
 - [嗨，這是我的第一篇貼文](https://moon-jam.me/post-hello-world/)
-- [Bloom filters 簡介](https://moon-jam.me/Bloom-filters/)
-- [[ECC 橢圓曲線密碼學：30 天從入門到入土] 前言](https://moon-jam.me/IThome_2025ironman_ECC_Day01/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
