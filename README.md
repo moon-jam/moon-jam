@@ -12,9 +12,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [關於 COXX（Cross-Origin）的那些事](https://moon-jam.me/about-cross-origin/)
 - [設計思考 II - Day1](https://moon-jam.me/design-thinking-II-Day1/)
 - [棒球賽初體驗](https://moon-jam.me/baseball-game-rookie/)
 - [豪華自助餐](https://moon-jam.me/luxury_buffet/)
 - [機率與統計筆記](https://moon-jam.me/probability-note/)
-- [AI 時代，做筆記還在手打 LaTeX ！？](https://moon-jam.me/AI_era_still_write_latex/)
 <!-- BLOG-POST-LIST:END -->
