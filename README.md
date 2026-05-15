@@ -12,7 +12,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [設計思考 II - Day1](https://moon-jam.me/design-thinking-II-Day1/)
 - [棒球賽初體驗](https://moon-jam.me/baseball-game-rookie/)
 - [豪華自助餐](https://moon-jam.me/luxury_buffet/)
