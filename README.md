@@ -12,9 +12,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [設計思考 II](https://moon-jam.me/design-thinking-II-Day234/)
 - [關於 COXX（Cross-Origin）的那些事](https://moon-jam.me/about-cross-origin/)
 - [設計思考 II - Day1](https://moon-jam.me/design-thinking-II-Day1/)
 - [棒球賽初體驗](https://moon-jam.me/baseball-game-rookie/)
 - [豪華自助餐](https://moon-jam.me/luxury_buffet/)
-- [機率與統計筆記](https://moon-jam.me/probability-note/)
 <!-- BLOG-POST-LIST:END -->
